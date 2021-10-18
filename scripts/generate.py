@@ -130,5 +130,5 @@ for question_set in tqdm(record_data):
             # text
             rich[item_id] = original_outfits[_outfit_id]["items"][_item_index]
 
-with open(target_dir / "rich.json", "r") as f:
+with open(target_dir / "rich.json", "w+") as f:
     json.dump(rich, f)
