@@ -5,6 +5,8 @@ A new interactive dataset for fashion recommendation tasks.
 ## Introduction
 This dataset is build upon Polyvore dataset. Concerning of the possible copyright issue, we provide a script to generate the dataset with modifying the original data.
 
+![](https://github.com/fang2hou/polyvore-interactive/raw/doc/workflow.svg)
+
 ## Preparation
 
 1. Python 3.5+ with `pandas`, `tqdm`
