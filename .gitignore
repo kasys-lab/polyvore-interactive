@@ -1,0 +1,4 @@
+**.bat
+**.sh
+polyvore/
+!polyvore/*.txt

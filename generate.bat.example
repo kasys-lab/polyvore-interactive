@@ -1,0 +1,6 @@
+python scripts/generate.py ^
+  --polyvore ./polyvore ^
+  --record ./record ^
+  --target ./polyvore-interactive ^
+  --move False ^
+  --override_category False

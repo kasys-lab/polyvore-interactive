@@ -1,0 +1,381 @@
+number,type,group
+2,Clothing,suit of clothes or dress
+3,Dresses,bottoms
+4,Day Dresses,bottoms
+5,Cocktail Dresses,bottoms
+6,Gowns,suit of clothes or dress
+7,Skirts,bottoms
+8,Mini Skirts,bottoms
+9,Knee Length Skirts,bottoms
+10,Long Skirts,bottoms
+11,Tops,tops
+15,Tunics,tops
+17,Blouses,tops
+18,Cardigans,tops
+19,Sweaters,tops
+21,T-Shirts,tops
+23,Outerwear,tops
+24,Coats,tops
+25,Jackets,tops
+26,Vests,tops
+27,Jeans,bottoms
+28,Pants,bottoms
+29,Shorts,bottoms
+30,Suits,suit of clothes or dress
+31,Swimwear,suit of clothes or dress
+33,Activewear,suit of clothes or dress
+35,Bags,misc
+36,Tote Bags,misc
+37,Shoulder Bags,misc
+38,Clutches,misc
+39,Luggage,misc
+40,Wallets,misc
+41,Shoes,shoes
+42,Boots,shoes
+43,Pumps,shoes
+46,Sandals,shoes
+47,Flats,shoes
+48,Flip Flops,shoes
+49,Sneakers,shoes
+50,Slippers,shoes
+51,Accessories,accessories
+52,Belts,accessories
+53,Gloves,accessories
+55,Hats,accessories
+56,Ties,accessories
+57,Sunglasses,accessories
+58,Hair Accessories,misc
+59,Umbrellas,misc
+60,Jewelry,misc
+61,Watches,misc
+62,Necklaces,misc
+64,Earrings,misc
+65,Rings,misc
+343,Men's Tank Tops,tops
+67,Brooches,accessories
+68,Hosiery,shoes
+69,Socks,shoes
+71,Men's Fashion,misc
+74,Beauty Products,misc
+75,Costumes,suit of clothes or dress
+76,Electronics,decorative hardware
+77,Font,misc
+78,Food & Drink,misc
+85,Sleepwear,suit of clothes or dress
+93,Makeup,misc
+94,Skincare,misc
+95,Fragrance,misc
+96,Bath & Body,misc
+97,Haircare,misc
+98,Nail Care,misc
+99,Beauty Accessories,accessories
+101,Maternity,misc
+102,Baby,misc
+104,Tank Tops,decorative hardware
+105,Scarves,tops
+106,Bracelets & Bangles,accessories
+107,Charms & Pendants,accessories
+108,Intimates,tops
+110,Sports & Outdoors,accessories
+113,Furniture,decorative hardware
+115,Sofas,decorative hardware
+116,Accent Chairs,decorative hardware
+118,Accent Tables,decorative hardware
+120,Ottomans,shoes
+122,Tables,decorative hardware
+123,Chairs,decorative hardware
+124,Barstools,decorative hardware
+126,Beds,decorative hardware
+127,Dressers,decorative hardware
+129,Storage & Shelves,decorative hardware
+130,Bookcases,decorative hardware
+132,Entertainment Units,decorative hardware
+135,Lighting,decorative hardware
+136,Rugs,decorative hardware
+139,Vases,decorative hardware
+140,Candles & Candleholders,decorative hardware
+141,Frames,decorative hardware
+143,Mirrors,decorative hardware
+144,Throw Pillows,decorative hardware
+4241,Fabric,decorative hardware
+4242,Flooring,decorative hardware
+147,Office Chairs,decorative hardware
+4244,Holiday Decorations,decorative hardware
+150,Hammocks & Swings,decorative hardware
+4247,Decorative Hardware,decorative hardware
+4248,Home Fragrance,decorative hardware
+153,Outdoor Loungers & Day Beds,decorative hardware
+154,Patio Umbrellas,decorative hardware
+155,Outdoor Benches,decorative hardware
+157,Garden Fountains,decorative hardware
+4254,Small Storage,decorative hardware
+159,Bedding,decorative hardware
+160,Sheets & Pillowcases,decorative hardware
+4257,Wallpaper,decorative hardware
+162,Blankets,decorative hardware
+163,Duvet Covers,decorative hardware
+164,Bed Pillows,decorative hardware
+166,Bath,decorative hardware
+167,Bath Towels,decorative hardware
+168,Shower Curtains,decorative hardware
+169,Bath Rugs & Mats,decorative hardware
+170,Bath Accessories,decorative hardware
+4267,Outdoor Decor,decorative hardware
+172,Bakeware,decorative hardware
+173,Cutlery,decorative hardware
+174,Small Appliances,decorative hardware
+175,Cookware,decorative hardware
+176,Kitchen Gadgets & Tools,decorative hardware
+177,Drinkware,decorative hardware
+178,Flatware,decorative hardware
+179,Serveware,misc
+180,Table Linens,decorative hardware
+181,Panel Screens,decorative hardware
+182,Home Decor,decorative hardware
+184,Face Makeup,misc
+185,Cheek Makeup,misc
+186,Eye Makeup,misc
+187,Lip Makeup,misc
+188,Concealer,misc
+189,Foundation,misc
+190,Face Powder,misc
+191,Tinted Moisturizer,misc
+192,Makeup Remover,misc
+193,Makeup Primer,misc
+194,Blush,misc
+195,Cheek Bronzer,misc
+4292,Beach Towels,misc
+197,Mascara,misc
+198,False Eyelashes,misc
+199,Eyeliner,misc
+200,Lipstick,misc
+201,Lip Gloss,misc
+202,Lip Pencils,misc
+203,Lip Stain,misc
+204,Face Care,misc
+205,Face Cleansers,misc
+206,Face Toners,misc
+207,Face Moisturizers,misc
+208,Face Masks,misc
+209,Eye Care,misc
+211,Lip Treatments,misc
+213,Body Cleansers,misc
+214,Body Moisturizers,misc
+216,Hair Removal,misc
+217,Sun Care,misc
+218,Hair Shampoo,misc
+219,Hair Conditioner,misc
+220,Styling Products,misc
+221,Hair Color,misc
+222,Nail Polish,misc
+223,Nail Treatments,misc
+224,Eyelash Curlers,misc
+225,Tweezers & Brow Tools,misc
+226,Sharpeners,misc
+227,Hair Styling Tools,misc
+228,Blow Dryers & Irons,decorative hardware
+229,Brushes & Combs,misc
+231,Bags & Cases,decorative hardware
+236,Blazers,decorative hardware
+237,Skinny Jeans,bottoms
+238,Bootcut Jeans,bottoms
+239,Wide Leg Jeans,bottoms
+240,Boyfriend Jeans,bottoms
+241,Leggings,bottoms
+243,Jumpsuits,suit of clothes or dress
+244,Rompers,misc
+245,Bras,tops
+246,Panties & Thongs,bottoms
+247,Camisoles,tops
+248,Chemises,tops
+249,Pajamas,suit of clothes or dress
+250,Robes,suit of clothes or dress
+251,Tights,suit of clothes or dress
+252,Activewear Tops,tops
+253,Activewear Pants,tops
+254,Activewear Skirts,tops
+255,Activewear Shorts,tops
+256,Activewear Jackets,tops
+257,Sports Bras,tops
+258,Messenger Bags,accessories
+259,Backpacks,accessories
+260,Briefcases,accessories
+261,Ankle Booties,shoes
+262,Mid Calf Boots,shoes
+263,Knee High Boots,shoes
+264,Over-The-Knee Boots,shoes
+265,Loafers & Moccasins,shoes
+266,Oxfords,shoes
+267,Clogs,shoes
+268,Athletic Shoes,shoes
+270,Sports Accessories,accessories
+271,Men's Clothing,suit of clothes or dress
+272,Men's Shirts,tops
+273,Men's Sweaters,tops
+275,Men's T-Shirts,tops
+276,Men's Outerwear,tops
+277,Men's Sportcoats & Blazers,tops
+278,Men's Jeans,bottoms
+279,Men's Pants,bottoms
+280,Men's Shorts,bottoms
+281,Men's Suits,suit of clothes or dress
+282,Men's Swimwear,suit of clothes or dress
+283,Men's Underwear,bottoms
+284,Men's Sleepwear,suit of clothes or dress
+285,Men's Activewear,tops
+286,Men's Activewear Tops,tops
+287,Men's Activewear Pants,bottoms
+288,Men's Activewear Shorts,bottoms
+289,Men's Activewear Jackets,tops
+290,Men's Bags & Wallets,accessories
+291,Men's Shoes,shoes
+292,Men's Boots,shoes
+293,Men's Sandals,shoes
+294,Men's Flip Flops,shoes
+295,Men's Loafers & Moccasins,shoes
+296,Men's Dress Shoes,shoes
+297,Men's Sneakers,shoes
+298,Men's Athletic Shoes,shoes
+299,Men's Accessories,accessories
+300,Men's Belts,accessories
+301,Men's Gloves,accessories
+302,Men's Scarves,accessories
+303,Men's Hats,accessories
+304,Men's Sunglasses,accessories
+305,Men's Watches,accessories
+306,Suspenders,accessories
+307,Cuff Links,accessories
+308,Pets,misc
+309,Activewear Tank Tops,tops
+310,Straight Leg Jeans,bottoms
+311,Books,accessories
+313,Dinnerware,decorative hardware
+314,Curtains,decorative hardware
+315,Shapewear,decorative hardware
+316,Office Accessories,decorative hardware
+317,Garden Tools,decorative hardware
+318,Handbags,accessories
+319,Makeup Brushes,misc
+320,Deodorant,misc
+321,Gift Cards,misc
+4426,Eyewear,accessories
+4428,Eyeglasses,accessories
+333,Body Art,accessories
+334,Men's Grooming,misc
+335,Men's Fragrance,misc
+4432,Outdoors,misc
+4433,Bed Accessories,misc
+338,Makeup Tools,misc
+339,Manicure Tools,misc
+340,Gift Sets & Kits,misc
+4437,Fans,misc
+342,Men's Polos,tops
+4439,Food Storage Containers,decorative hardware
+4440,Teapots,decorative hardware
+4441,Kids,misc
+4442,Juniors,accessories
+4443,Jewelry Storage,decorative hardware
+4445,Cleaning,decorative hardware
+4446,Cabinets,decorative hardware
+4447,Men's Eyeglasses,decorative hardware
+4448,Media,decorative hardware
+4449,Benches,decorative hardware
+4450,Kitchen Linens,decorative hardware
+4451,Party Supplies,decorative hardware
+4452,Flared Jeans,bottoms
+4454,Men's Casual Shirts,bottoms
+4455,Men's Coats,tops
+4456,Men's Jackets,tops
+4457,Men's Vests,tops
+4458,Men's Casual Pants,bottoms
+4459,Men's Dress Pants,bottoms
+4460,Men's Socks,shoes
+4461,Men's Bags,accessories
+4462,Men's Briefcases,accessories
+4463,Men's Wallets,accessories
+4464,Men's Oxfords,shoes
+4465,Men's Slippers,shoes
+4466,Men's Watches & Jewelry,accessories
+4467,Men's Key Rings & Chains,accessories
+4468,Men's Money Clips,accessories
+4470,Bow Ties,tops
+4472,Men's Tech Accessories,decorative hardware
+4473,Men's Umbrellas,accessories
+4474,Men's Grooming Bags,misc
+4475,Men's Deodorant,misc
+4476,Men's Gift Sets & Kits,misc
+4477,Men's Shaving,misc
+4478,Boys,misc
+4479,Girls,misc
+4480,Health,misc
+4481,Oral Care,misc
+4482,Supplements,misc
+4483,Napkin Rings,accessories
+4484,Stools,decorative hardware
+4485,Outdoor Stools,decorative hardware
+4486,Aprons,bottoms
+4487,Bedspreads,decorative hardware
+4488,Children's Furniture,decorative hardware
+4489,Nursery Furniture,decorative hardware
+4490,Baby Bedding,decorative hardware
+4492,Window Blinds,decorative hardware
+4493,Outdoor Patio Sets,decorative hardware
+4495,Sweatshirts,tops
+4496,Hoodies,tops
+4497,Men's Sweatshirts,tops
+4498,Men's Hoodies,accessories
+4499,Dining Chairs,decorative hardware
+4500,Dining Tables,decorative hardware
+4501,Bar Cabinets,decorative hardware
+4502,Standing Fans,decorative hardware
+4503,Ceiling Lights,decorative hardware
+4504,Desk Lamps,decorative hardware
+4505,Floor Lamps,decorative hardware
+4506,Table Lamps,decorative hardware
+4507,Wall Lights,decorative hardware
+4508,Curtain Rods,decorative hardware
+4509,Children's Room,decorative hardware
+4510,Children's Bedding,decorative hardware
+4511,Children's Decor,decorative hardware
+4512,Home Improvement,decorative hardware
+4513,Paint,decorative hardware
+4514,Storage & Organization,misc
+4516,Wedding Dresses,suit of clothes or dress
+4517,Bikini Tops,tops
+4518,Bikini Bottoms,bottoms
+4520,Men's Backpacks,accessories
+4521,Men's Messenger Bags,accessories
+4522,Men's Work Boots,shoes
+4523,Men's Bracelets,accessories
+4524,Men's Necklaces,accessories
+4525,Men's Rings,accessories
+4526,Handkerchiefs,accessories
+4438,Floral Decor,decorative hardware
+4240,Clocks,decorative hardware
+146,Desks,decorative hardware
+148,File Cabinets,decorative hardware
+4246,Fireplace Accessories,decorative hardware
+151,Outdoor Tables,decorative hardware
+152,Outdoor Chairs,decorative hardware
+949,Toys,decorative hardware
+161,Comforters,decorative hardware
+4258,Window Treatments,decorative hardware
+171,Kitchen & Dining,decorative hardware
+4269,Patio Furniture,decorative hardware
+4276,Outdoor Lighting,decorative hardware
+196,Eyeshadow,misc
+3336,Stationery,accessories
+1605,Bikinis,suit of clothes or dress
+1606,One Piece Swimsuits,suit of clothes or dress
+1607,Cover-ups,misc
+1967,Tech Accessories,decorative hardware
+332,Capri & Cropped Pants,bottoms
+4429,Sideboards,decorative hardware
+4430,Armoires,decorative hardware
+4431,Nightstands,decorative hardware
+336,Men's Hair Care,misc
+337,Men's Skincare,misc
+4434,Quilts & Coverlets,decorative hardware
+4435,Bar Tools,decorative hardware
+4436,Cookbooks,decorative hardware
+341,Men's Dress Shirts,tops
