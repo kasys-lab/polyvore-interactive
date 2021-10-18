@@ -5,13 +5,13 @@ A new interactive dataset for fashion recommendation tasks.
 ## Introduction
 This dataset is build upon Polyvore dataset. Concerning of the possible copyright issue, we provide a script to generate the dataset with modifying the original data.
 
-## The things you need to papared
+## Preparation
 
 1. Python 3.5+ with `pandas`, `tqdm`
 2. Polyvore dataset [[original repo]](https://github.com/xthan/polyvore-dataset) 
    - [dataset](https://raw.githubusercontent.com/xthan/polyvore-dataset/master/polyvore.tar.gz) ~ 8 MB
    - [images](https://drive.google.com/file/d/0B4Eo9mft9jwoNm5WR3ltVkJWX0k/view?resourcekey=0-U-30d1POF7IlnAE5bzOzPA) ~ 13GB
-   - Gather above 2 assests into a directory:
+   - Gather the above two parts into a directory:
       ```
       polyvore
       ├─images
@@ -23,10 +23,9 @@ This dataset is build upon Polyvore dataset. Concerning of the possible copyrigh
 
       ```   
 
-
 ## Usage
 
-you can use `python scripts/generate.py -h` to print the help message.
+Use `python scripts/generate.py -h` to check the help message anytime.
 
 ```
 usage: generate.py [-h] --polyvore POLYVORE [--record RECORD] [--target TARGET] [--move MOVE]
@@ -42,7 +41,7 @@ optional arguments:
                         Set true to sort the categories into 7 main groups
 ```
 
-We also provide example file in `generate.sh.example`(for Linux & macOS) and `generate.bat.example` (for Windows NT). You can use it by removing the `.example` extension from the file name and add your python environment commands.
+We also provide example file in `generate.sh.example`(for Linux & macOS) and `generate.bat.example` (for Windows NT). Before running the shell / batch file, do not forget to remove the `.example` extension from the file name and add your python environment commands.
 
 ## Citation
 Feel free to cite our paper of this dataset:
